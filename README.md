@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/bjH9rqU)
+![Banner](https://github.com/teja569/banner/blob/main/github-header-image%20(1).png)
 
 ## Hi there 👋
 
@@ -81,11 +81,3 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
 I'm definitely not a cat person. 🐶
 
 ---
-
-**Notes:**
-
-- **Banner**: Replace the placeholder URL with a real banner image if you have one.
-- **Project Links**: Add actual links to your projects if they are hosted online.
-- **Images and Badges**: The links to badges should be updated with your actual skill set.
-
-Feel free to customize and tweak this template to fit your personal style and additional information!

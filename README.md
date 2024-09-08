@@ -1,4 +1,4 @@
-![Banner](C:\Users\tejas\Downloads)
+![Banner](https://imgur.com/a/bjH9rqU)
 
 ## Hi there 👋
 

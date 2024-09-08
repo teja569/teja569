@@ -29,7 +29,6 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 ### 🌱 I’m learning
 
@@ -46,14 +45,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="https://www.linkedin.com/in/codewithbernard/](https://www.linkedin.com/in/tejasai-polamarasetty-b3246828a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
 

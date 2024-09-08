@@ -78,6 +78,6 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
 
 ### ⚡ Fun Fact
 
-I'm definitely not a cat person. 🐶
+I’ve coordinated large-scale college events, excelled in both academics and sports, and still managed to stay passionate about coding and web development! 🌟📚🏆
 
 ---

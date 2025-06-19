@@ -43,9 +43,9 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
 
 ### 🎓 Education
 
-- **B.Tech. (ECE)**, Vignan’s Institute of Information Technology – 9 CGPA (till now)
-- **Intermediate**, Sri Chaitanya Junior College
-- **Tenth Class**, Ideal English Medium High School
+- **B.Tech. (ECE)**, Vignan’s Institute of Information Technology – 9 CGPA 
+- **Intermediate**, Sri Chaitanya Junior College - 96%
+- **Tenth Class**, Ideal English Medium High School -9.7 CGPA
 
 ### 🏅 Certifications
 

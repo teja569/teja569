@@ -27,11 +27,24 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/mysql-%23479AC1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/verilog-008080?style=for-the-badge&logoColor=white" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/vhdl-800080?style=for-the-badge&logoColor=white" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/figma-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/oop-%23323330.svg?style=for-the-badge&logo=dependabot&logoColor=white" alt="OOP"/>
+  <img src="https://img.shields.io/badge/dsa-%2300C853.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
+  <img src="https://img.shields.io/badge/rest%20api-%2300AFB9.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/mvc%20architecture-%234A90E2.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="MVC Architecture"/>
 </div>
 
 ### 🛠 Projects

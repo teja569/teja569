@@ -6,14 +6,14 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
 
 ### 🔭 I’m currently working on
 
-- **Freelance Projects**: Building custom websites and applications for clients.
-- **Open Source Contributions**: Enhancing community-driven projects.
+- **AI Appointment Booking Agent**: A conversational chatbot that manages Google Calendar appointments using **FastAPI**, **LangGraph**, and **Streamlit**. It understands natural language input, suggests slots, checks availability, and confirms bookings.
 
 ### 🌱 I’m learning
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/langgraph-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
@@ -29,41 +29,47 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/mysql-%23479AC1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
 ### 🛠 Projects
 
-- **Smart Bike**: An innovative system combining hardware and software for real-time GPS tracking and remote control features. [More details](#)
+- **Smart Bike**: A complete IoT-based vehicle security system with real-time GPS tracking, remote engine control, and theft alerts using ESP32, MySQL, PHP, and MIT App Inventor.
 
-- **YouTube Mod Front-end Project**: Custom front-end interface for YouTube with a responsive design. [More details](#)
+- **Expense Tracker App**: A cross-platform mobile app using React Native, AsyncStorage, and Chart Kit. Supports category tagging, pie/trend graphs, and persistent local data.
 
-- **Human Activity Recognition**: Machine learning model for classifying human activities using sensor data. [More details](#)
+- **AI Appointment Agent**: A FastAPI + LangGraph based bot that manages Google Calendar bookings with natural language input and Streamlit UI.
+
+- **Feedback System App**: Role-based feedback collection system with manager/employee dashboards, anonymous mode, PDF export, and markdown support using React, Python, and PostgreSQL.
 
 ### 🎓 Education
 
-- **B.Tech. (ECE)**, Vignan’s Institute of Information Technology – 9 CGPA 
-- **Intermediate**, Sri Chaitanya Junior College - 96%
-- **Tenth Class**, Ideal English Medium High School -9.7 CGPA
+- **B.Tech. (ECE)**, Vignan’s Institute of Information Technology – 9 CGPA  
+- **Intermediate**, Sri Chaitanya Junior College – 96%  
+- **Tenth Class**, Ideal English Medium High School – 9.7 CGPA  
 
 ### 🏅 Certifications
 
-- **Web Development**: Immensphere (Skill Forge), Octanet
-- **Cisco**: Introduction to Cybersecurity, Cybersecurity Essentials, Switching, Routing, and Wireless Essentials
-- **Introduction to HTML**: Solo Learn
+- **Web Development**: Immensphere (SkillForge), Octanet  
+- **Cisco**: Introduction to Cybersecurity, Cybersecurity Essentials, Switching, Routing & Wireless Essentials  
+- **Introduction to HTML**: SoloLearn  
+- **PCAP: Programming in Python**: Cisco Networking Academy  
+- **Effective Problem Solving**: Coursera  
 
 ### 💼 Work Experience
 
-- **Intern, SkillForge** (4 months): Developed a business website as part of internship responsibilities.
-- **Web Developer, Octanet** (1 month): Contributed to various web development tasks and projects.
+- **Intern, SkillForge** *(Jan 2024 – Mar 2024)*: Built a client business site using React, MongoDB, Tailwind. Improved load speed by 30% and user engagement.
+
+- **Intern, Octanet** *(Sep 2023 – Nov 2023)*: Created a responsive to-do app and landing pages. Reduced UI bugs by 60% and improved mobile experience.
 
 ### 🌟 Co-Curricular Activities
 
-- **Class Representative** (2021-2023)
-- **President of the Department** (2024)
-- **College Volleyball Tournament Runner-Up** (2024)
-- **Coordinated VISTA-2K23**
+- **Class Representative** (2021–2023)  
+- **President of the Department** (2024)  
+- **College Volleyball Tournament Runner-Up** (2024)  
+- **Coordinated VISTA-2K23** (College Tech Fest)  
 
 ### 📫 How to reach me
 
@@ -78,6 +84,4 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
 
 ### ⚡ Fun Fact
 
-I’ve coordinated large-scale college events, excelled in both academics and sports, and still managed to stay passionate about coding and web development! 🌟📚🏆
-
----
+I’ve balanced tech, teamwork, and leadership—from building IoT systems and mobile apps to coordinating fests and spiking the volleyball court 🏐💻🔥

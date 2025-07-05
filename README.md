@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm a passionate web developer and aspiring full-stack developer with a love for making websites come alive using HTML, CSS, and JavaScript. With strong coding skills and quick learning abilities, I strive to contribute effectively to dynamic projects and foster innovation.
+I'm a passionate full-stack and mobile developer with a strong foundation in IoT systems, scalable apps, and seamless UI/UX. I specialize in building cross-platform solutions using modern tech stacks—from React Native and MongoDB to ESP32 and FastAPI. I thrive in solving real-world problems and creating polished, efficient user experiences.
 
 ### 🔭 I’m currently working on
 
@@ -18,7 +18,6 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
 </div>
 
 ### 💼 Technical Skills
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/python-%23374539.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -28,13 +27,18 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/langgraph-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/mysql-%23479AC1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/verilog-008080?style=for-the-badge&logoColor=white" alt="Verilog"/>
   <img src="https://img.shields.io/badge/vhdl-800080?style=for-the-badge&logoColor=white" alt="VHDL"/>
   <img src="https://img.shields.io/badge/figma-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -46,6 +50,7 @@ I'm a passionate web developer and aspiring full-stack developer with a love for
   <img src="https://img.shields.io/badge/rest%20api-%2300AFB9.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/mvc%20architecture-%234A90E2.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="MVC Architecture"/>
 </div>
+
 
 ### 🛠 Projects
 
